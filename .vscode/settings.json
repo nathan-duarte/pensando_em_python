@@ -1,0 +1,5 @@
+{
+    "editor.snippets.codeActions.enabled": false,
+    "github.copilot.editor.enableCodeActions": false,
+    "chat.customizations.migration.enabled": false
+}
